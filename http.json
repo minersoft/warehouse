@@ -3,7 +3,7 @@
     "description": "Tool for parsing http urls and headers",
     "url": "github:///minersoft/http",
     "version": "1.0.0",
-    "build": 5,
+    "build": 6,
     "last_modified": "2014-08-09 17:30:00",
     "dependencies": [],
     "external_modules": [],
