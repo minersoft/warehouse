@@ -1,6 +1,6 @@
 {
     "name": "excel_SX",
-    "description": "Generation of excel spreadsheets with charts using SmartXLS Java library, requires Java and jpype",
+    "description": "Generation of excel spreadsheets with charts using SmartXLS Java library, (on windows - Java, jpype  and python should be of same platform 32 or 64 bit)",
     "url": "github:///minersoft/excel_SX",
     "version": "1.0.0",
     "build": 1,
